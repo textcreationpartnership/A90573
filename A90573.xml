@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of colonels, lieutenant-colonells, majors, and other officers, that have faithfully served the great cause of the kingdome under the authority of the Parliament. Presented to both Houses, with the severall answers of the Lords and Commons in Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90573</idno><idno type="EEBO-CITATION">99861934</idno>
+  <idno type="VID">160173</idno>
+  <idno type="EEBO-PROQUEST">2240950527</idno>
+  
+            <idno type="STC">Wing P1761</idno>
+            <idno type="STC">Thomason E382_4</idno>
+            <idno type="STC">ESTC R201423</idno>
+            <idno type="PROQUEST">99861934</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861934e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160173)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E382[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of colonels, lieutenant-colonells, majors, and other officers, that have faithfully served the great cause of the kingdome under the authority of the Parliament. Presented to both Houses, with the severall answers of the Lords and Commons in Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostocke.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>March. 27. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160173:1"/>
+            <p>THE PETITION OF Colonels, Lieutenant-Colonells, Ma<g ref="char:EOLhyphen"/>jors, and other Officers, that have faithfully served the GREAT CAUSE <hi>OF THE</hi> KINGDOME Under the Authority of PARLIAMENT.</p>
+            <p>Presented to both HOUSES, with the severall Answers of the <hi>Lords</hi> and <hi>Com<g ref="char:EOLhyphen"/>mons</hi> in Parliament.</p>
+            <p>LONDON, Printed for <hi>Robert Bostocke.</hi>
+            </p>
+            <p>
+               <hi>March.</hi> 27. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:160173:2"/>
+            <pb n="3" facs="tcp:160173:2"/>
+            <head>TO The Right Honourable the Lords and Commons Assembled in Parliament,</head>
+            <head type="sub">The humble Petition of Colonels, Lieutenant Colonels, Majors and other Officers that have faithfully served the great Cause of the Kingdome, under the Autho<g ref="char:EOLhyphen"/>rity of Parliament,</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners having faithfully served you in the maintenance and settle<g ref="char:EOLhyphen"/>ment of Religion, the liberty of the Subjects, and the Privileges of Parlia<g ref="char:EOLhyphen"/>ment, according to the tenor of the nati<g ref="char:EOLhyphen"/>onall Covenant taken by them, in the time of the Kingdomes greatest exigence (which were the princi<g ref="char:EOLhyphen"/>pall
+<pb n="4" facs="tcp:160173:3"/> ends for which they were at first ingaged) and cannot but hold themselves bound in honour and con<g ref="char:EOLhyphen"/>science, in concurrence with many others, to tender to your Honours Considerations, such things as they in all submission do conceive exceedingly conducing to the speedy effecting of the said ends, togethe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with their owne sad and neglected condition, humbly desi<g ref="char:EOLhyphen"/>ring your Honours favourable construction of their good intentions therein, and opportune and timely an<g ref="char:EOLhyphen"/>swer unto these ensuing particulars, <hi>viz</hi> as followeth.</p>
+            <p n="1">1. That the publique worship of God may spee<g ref="char:EOLhyphen"/>dily be setled, according to the word of God, and the example of the best Reformed-Churches.</p>
+            <p n="2">2. That the Subject may have the benefit of <hi>Mag<g ref="char:EOLhyphen"/>na Charta,</hi> and the Petition of Right, so farre forth as may comport with the necessity of the Kingdome.</p>
+            <p n="3">3. That all Committees in the severall Counties may be removed, and that they, the Treasurers, and Se<g ref="char:EOLhyphen"/>questrators of the said Counties may be called to a speedy and strict account, for the better satisfaction and ease of the Kingdome.</p>
+            <p n="4">4. That the Arreares of such Officers as have ser<g ref="char:EOLhyphen"/>ved under any generall Command, may have their ac<g ref="char:EOLhyphen"/>counts speedily audited in <hi>London,</hi> and that a speciall Order may be issued to t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e severall Committees of accounts residing in other Counties, forthwith to au<g ref="char:EOLhyphen"/>dit the accounts of such Officers as have been subser<g ref="char:EOLhyphen"/>vient to the Orders of the Committees of the said Counties.</p>
+            <p n="5">5. That such pay as shall appeare due unto the said Officers under the hands of the Committees of Ac<g ref="char:EOLhyphen"/>counts, according to the establishment, may be forth<g ref="char:EOLhyphen"/>with
+<pb n="5" facs="tcp:160173:3"/> paid unto them with interest, and the Ordinance upon the Bishops Lands, with the security of the Ex<g ref="char:EOLhyphen"/>cise may be revived for the discharge thereof; that for such part as is respited upon the publique faith, it may be discharged with interest, at the end of six moneths deducting the surcharges of the severall Counties, and that an Order may be issued to the said severall Coun<g ref="char:EOLhyphen"/>ties to bring in their surcharges within the time of three moneths, or otherwaies they shall not be char<g ref="char:EOLhyphen"/>ged on our Accounts; that so all of us may not be ut<g ref="char:EOLhyphen"/>terly ruined as some of us already are, by long and te<g ref="char:EOLhyphen"/>dious sollicitation, nor your justice blemished tho<g ref="char:EOLhyphen"/>rough our necessities and sufferings.</p>
+            <p n="6">6. That all such Officers and Souldiers as have con<g ref="char:EOLhyphen"/>tracted any Debt since this Warre began, in order to the carrying on of the publique Service, either for the want of the payment of their due Sallary, or by reason of their own disbursment, may have their persons free from all Processes, Arrests, or Molestations, until their Arreares shal be discharged, and that then their Credi<g ref="char:EOLhyphen"/>tors shall be proportionably satisfied, and the said Officers left to the usuall course and full power of the Law as formerly.</p>
+            <p n="7">7. That an Act of Indemnitie may be passed for all Officers and Souldiers, for such actions as have bin done by them in reference to the publique Service since the beginning of this Warre.</p>
+            <p n="8">8. That all such Officers as have lost the benefit o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Estates, and have disbursed divers summes o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Money for the raysing of Men, Horses, Armes, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ammunition, or in the management of their pub<g ref="char:EOLunhyphen"/>lique trusts, shall be considered for their said losses
+<pb n="6" facs="tcp:160173:4"/> and allowed for their said disbursments upon just proofe thereof made before the Committee of Ac<g ref="char:EOLhyphen"/>compts; And that the said Committee shall have spe<g ref="char:EOLhyphen"/>ciall Order given them to audite such disbursments when they shall be brought unto them.</p>
+            <p n="9">9. That not forgetting your Honours tender care of the sad condition of bleeding <hi>Ireland,</hi> and that no<g ref="char:EOLhyphen"/>thing may be wanting on our parts towards the pro<g ref="char:EOLhyphen"/>moting of so honourable and pious a worke, some of us have ingaged our selves already, and the rest are most willing to contribute their best assistance thereunto, when as your Honours shall be pleased to command us.</p>
+            <p>And in pursuance of a full Establishment of the particulars aforesaid, as in your great Wisedome shall be thought most convenient, Your Petitioners doe offer their utmost service and assistance, with their Lives and Fortunes.</p>
+            <closer>And shall ever pray, &amp;c.</closer>
+         </div>
+         <div type="response">
+            <pb n="7" facs="tcp:160173:4"/>
+            <opener>
+               <dateline>
+                  <date>Die Lunae 22. Martii. 1646.</date>
+               </dateline>
+            </opener>
+            <p>THE Right Honourable House of Lords being informed, that divers Officers that have served the Parliament and Kingdome were at the doore, des<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing to preferre a Petition to them, they were called in, and Colonell <hi>Richard Sandys</hi> did present the same, stiled, The Humble Petition of Colonells, Lieutenant Colonells, Majors, and other Officers that have faithfully served the great Cause of the Kingdome under the Authority of Parliament: which being read, the Petitioners were commanded to withdraw, and after debate they were called in againe, and the Speaker gave them the Answer of the House, <hi>viz.</hi>
+            </p>
+            <p>The House gives you thanks for your Affections to thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> House.</p>
+            <p>They give you thanks for your good Services done for the Parliament and Kingdome.</p>
+            <p>They give you thanks for your Constancy and Perseverance in your Affections to the well-f<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Kingdome.</p>
+            <p>They give you thanks for your Readinesse to serve the Par<g ref="char:EOLhyphen"/>liament in the Irish Warre, and doe promise when they have occasion to imploy you.</p>
+            <p>For your Arreares, they will use their utmost endeavours, that you may be speedily satisfied.</p>
+            <p>And for the other particulars, they will take them into spee<g ref="char:EOLhyphen"/>dy Consideration.</p>
+         </div>
+         <div type="response">
+            <pb n="8" facs="tcp:160173:5"/>
+            <opener>
+               <dateline>
+                  <date>Die Lunae 22 Martii. 1646.</date>
+               </dateline>
+            </opener>
+            <p>THe House being informed that divers Officers that ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e served the Parliament were at the doore, desiring to pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erre a Petition to the House, they were called in, and Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Essex</hi> did preferre a Petition, stiled, The Humble Petition, of Colonells, Lieutenant Colonells, Majors, and other Officers, that have faithfully served the great Cause of the Kingdome under the Authority of Parliament; the which, the Peti<g ref="char:EOLhyphen"/>tioners being withdrawne, was read: And it is Ordered, that Master <hi>Hollis,</hi> Sir <hi>Philip Stapleton,</hi> Master <hi>Reynolds,</hi> and Col. <hi>Bossevile,</hi> do from this House acquaint the Petitioners, That as to their Arreers, the House hath, and will take them into Consi<g ref="char:EOLhyphen"/>deration with others, in such manner as they shall think fit; and for their desire of imployment, they will take them into Consi<g ref="char:EOLhyphen"/>deration, as occasion shall be. The rest of the Petition, which concernes the mannagement of the Affaires of the Publique, it does not concerne any to give Instructions to the Houses therein: Yet in consideration the Petitioners are men that have done Service to the Parliament, and in regard of their Profes<g ref="char:EOLhyphen"/>sions may have done this meerely out of inadvertency, they are, willing to passe by it.</p>
+            <closer>
+               <signed>Hen. Elsyng Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
